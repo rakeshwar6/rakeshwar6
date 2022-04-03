@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rakeshwar6
 - 👀 I’m interested in ...Exploring New Things
 - 🌱 I’m currently working ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...rockyn55555@gmail.com
 
 <!---
